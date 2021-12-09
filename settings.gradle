@@ -1,0 +1,3 @@
+include ':USBCamera'
+include ':app'
+rootProject.name = "USBCamera"
