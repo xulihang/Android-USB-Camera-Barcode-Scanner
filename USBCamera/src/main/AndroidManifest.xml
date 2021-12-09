@@ -3,7 +3,7 @@
     package="com.dynamsoft.usbcamera">
 
     <application>
-        <activity android:name=".CaptureActivity"></activity>
+        <activity android:exported="true" android:name=".CaptureActivity"></activity>
     </application>
 
 </manifest>
