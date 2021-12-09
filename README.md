@@ -1,6 +1,6 @@
 # Android-USB-Camera-Barcode-Scanner
 
-An Android barcode scanner with can utilize usb cameras based on [saki4510t/UVCCamera](https://github.com/saki4510t/UVCCamera). [Dynamsoft Barcode Reader](https://www.dynamsoft.com/barcode-reader/overview/) is used as the barcode SDK.
+An Android barcode scanner which can utilize usb cameras based on [saki4510t/UVCCamera](https://github.com/saki4510t/UVCCamera). [Dynamsoft Barcode Reader](https://www.dynamsoft.com/barcode-reader/overview/) is used as the barcode SDK.
 
 It is possible to call it from another application using Intent:
 
